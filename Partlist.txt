@@ -1,0 +1,40 @@
+Partlist:
+Assembly variant: THT
+
+Part       Value           Device
+
+C1         470uF           Elektrolytkondensator/Electrolytic capacitor (5mm)
+C2         470uF           Elektrolytkondensator/Electrolytic capacitor (5mm)
+C3         470uF           Elektrolytkondensator/Electrolytic capacitor (5mm)
+C4         470uF           Elektrolytkondensator/Electrolytic capacitor (5mm)
+C5         100uF           Elektrolytkondensator/Electrolytic capacitor (5mm)
+C6         470uF           Elektrolytkondensator/Electrolytic capacitor (5mm)
+C7         470uF           Elektrolytkondensator/Electrolytic capacitor (5mm)
+C8         100nF           Kondensator/Capacitor (2,5/5mm)
+C9         100nF           Kondensator/Capacitor (2,5/5mm)
+IC1        TINY13-20PU     TINY13-20PU (DIL08)
+IC2        7805L           Linearregler (TO92)
+J1         XT-60BATT_LABEL XT-60
+JP1        Goggles         Stiftleiste/Pinheader-1X3 (2.54mm)
+JP2                        Stiftleiste/Pinheader-1X2 (2.54mm)
+JP3        5V_Piezo        Stiftleiste/Pinheader-1X2 (2.54mm)
+L1         47uH            Spule/Coil 0204
+L2         47uH            Spule/Coil 0204
+Q1         BC337           Transistor (NPN) TO92
+Q2         BC337           Transistor (NPN) TO92
+Q3         BC337           Transistor (NPN) TO92
+Q4         BC337           Transistor (NPN) TO92
+R1         150R            Widerstand/Resistor 0204/0,25W
+R2         150R            Widerstand/Resistor 0204/0,25W
+R3         150R            Widerstand/Resistor 0204/0,25W
+R4         150R            Widerstand/Resistor 0204/0,25W
+R5         18K             Widerstand/Resistor 0204/0,25W
+R6         68k             Widerstand/Resistor 0204/0,25W
+R7         4k7             Widerstand/Resistor 0204/0,25W
+R11        75R             Widerstand/Resistor 0204/0,25W
+U$1        MP1584          MP1584
+VIDEO_IN   736880-49       Cinch-Buchse (Mono)
+VIDEO_OUT1 736880-49       Cinch-Buchse (Mono)
+VIDEO_OUT2 736880-49       Cinch-Buchse (Mono)
+VIDEO_OUT3 736880-49       Cinch-Buchse (Mono)
+VIDEO_OUT4 736880-49       Cinch-Buchse (Mono)
